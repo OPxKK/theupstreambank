@@ -1,0 +1,179 @@
+.img-bank{
+    width: 90%;
+    padding-left: 10%;
+}
+
+.customers-section{
+    text-align: center;
+}
+
+.transactions-section{
+    text-align: center;
+}
+
+.img-customers{
+    width: 70%;
+    padding-top: 10%;
+}
+
+.img-transactions{
+    width: 70%;
+    padding-top: 20%;
+}
+
+#second-container{
+    padding: 5%;
+    background-color: #EAE7DC;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-customers{
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+.btn-transactions{
+    margin-top: 5%;
+
+}
+
+.heading{
+    text-align: center;
+    padding-top: 5%;
+
+}
+
+.para{
+    text-align: center;
+    font-size: 15px;;
+}
+
+.btn-transfer{
+    margin-left: 130px;;
+}
+
+.img-upstream{
+   
+    width: 80%;
+    margin-left: 10%;
+}
+
+#middle-container{
+    padding: 5%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading-transfer{
+    text-align: center;
+    font-size: 30px;;
+}
+
+.img-debitcard{
+    width: 80%;
+    padding-left: 30%;
+    padding-top: 10%;
+
+}
+
+.text-center{
+    padding-top: 10%;
+}
+
+.heading-money-transfer{
+    text-align: center;
+}
+
+#contact-us-container{
+    background-color: #868e96;
+    text-align: center;
+    padding: 2%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font{
+    padding: 3%;
+    padding-bottom: 30px;
+}
+
+.heading1{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    margin-left: 15px;;
+
+}
+.heading2{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;;
+    margin-left: 25px;;
+
+}
+
+
+.font:hover{
+    color: orange;
+}
+
+.heading1:hover{
+    color: orange;
+}
+
+.heading2:hover{
+    color: orange;
+}
+
+#last-container{
+    background-color: #181818;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;;
+}
+
+
+.heading-last1{
+    color: white;
+    display: inline-block;
+    position: relative;
+    top: 30%;
+
+    padding: 1%;
+    margin-left: 50px;;
+ 
+}
+
+.heading-last2{
+    color: white;
+    display: inline-block;
+    position: relative;
+    bottom: 20px;;
+
+    padding: 1%;
+    margin-left: 750px;;
+
+ 
+}
+
+.nav{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;;
+    font-weight: bold;
+}
+
+.navbar{
+    padding: 1%;
+}
+
+.nav-link{
+    padding: 5px;
+}
+
+.nav-item{
+    padding-left: 30px;;
+}
+
+.navbar-nav{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+

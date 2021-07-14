@@ -1,0 +1,32 @@
+.heading-money-transfer{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.navbar{
+    padding: 1%;
+}
+
+.nav-link{
+    padding: 5px;
+}
+
+.nav-item{
+    padding-left: 30px;;
+}
+
+.navbar-nav{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+#second-container{
+    padding: 5%;
+}
