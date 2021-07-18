@@ -57,7 +57,7 @@
         <img src="images/LogoMakerCa-1625984522123.png" class="img-upstream" alt="">
       </div>
       <div class="col-lg-6">
-        <img src="images/BBVA-Compass-Debit-Business-Standard.png" class="img-fluid img-debitcard" alt="">
+        <img src="./images/BBVA-Compass-Debit-Business-Standard.png" class="img-fluid img-debitcard" alt="">
         <h1 class="text-center">Get your own customized Business Debit card today!</h1>
 
       </div>
@@ -77,7 +77,7 @@
       <div class="col-lg-6 transactions-section">
         <h1 class="heading-transfer">Transactions history</h1>
         <img src="images/Mobile bank users transferring money.jpg" class="img-fluid img-transactions" alt="">
-        <a href="history.php"><button class="btn btn-transactions w-50 btn-dark btn-lg">Transactions</button></a>
+        <a href="./history.php"><button class="btn btn-transactions w-50 btn-dark btn-lg">Transactions</button></a>
       </div>
 
     </div>
